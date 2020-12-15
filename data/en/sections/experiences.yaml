@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Kodluyoruz
+    url: "https://www.kodluyoruz.org/"
+    location: Istanbul
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Python and Artificial intelligence instructor
+    start: March 2019 - Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Introduction to Artificial Intelligence
+    - Basic Python
+    - Introduction to Machine Learning
+
+- company:
+    name: GreenBrain AI
+    url: "https://www.greenbrain.ai"
+    location: Istanbul
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Computer Vision Engineer
+    start: Jan 2019 - Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Collected, studied, and interpreted large datasets 
+    - Recycle using image processing
+    - Tensorflow object detection api
+    - Embedded system - Jetson Nano
+
+- company:
+    name: Globalaihub
+    url: "https://globalaihub.com/"
+    location: Switzerland
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Machine Learning Engineer
+    start: April 2019 - Present
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed, implemented and evaluated new models
+    - Machine learning at Google cloud
+    - Deployment of models with Flask Api
+    - Web development
+
+- company:
+    name: Clarusway LLC
+    url: "https://clarusway.com/"
+    location:  United States
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Data Scientist
+    start: June 2019 - Present
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developed and implemented new forecasting models which increased company productivity and efficiency.
+    - Developing projects based on e-commerce -  Customer Segmantation and Rfm analysis, Fraud detection, Churn prediction
+    - Pipelining in Google cloud environment  
+    - Deployment with Streamlit     

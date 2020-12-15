@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Instructor
+# your company information
+company:
+  name: Clarusway
+  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Emre_Ulgac_Resume.pdf"
+
+# a summary about you
+summary: 'I am a computer engineer. I have developed software for 3 years with web development. I developed APIs with Rest architecture. 
+I have been developing projects in the field of image processing and machine learning for 2 years. Now, I am working as a Data Science Instructor at Clarusway LLC.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ulgacemre"
+- name: Kaggle
+  icon: "fab fa-kaggle"  
+  url: "https://www.kaggle.com/emreulgac"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com"  
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 90
+  color: blue
+- name: Problem Solving
+  percentage: 90
+  color: green
+- name: Communication
+  percentage: 95
+  color: yellow  
+
+  

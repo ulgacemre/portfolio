@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Python
+  icon: "/images/sections/skills/python.png"
+  summary: "I love Python. I am working with this language for 3 years."  
+- name: Pandas
+  icon: "/images/sections/skills/pandas.png"
+  summary: "If I want to understand data then everytime I use pandas data manipulation tool."    
+
+- name: Sklearn
+  icon: "/images/sections/skills/sklearn.png"
+  summary: "Best framework for machine learning problems."  
+
+- name: Tensorflow
+  icon: "/images/sections/skills/tensor.png"
+  summary: "Best framework for deep learning problems."  
+
+- name: OpenCV
+  icon: "/images/sections/skills/opencv.png"
+  summary: "OpenCV aims realtime Computer Vision."    
+
+- name: Google Cloud Programming
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."  
