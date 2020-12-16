@@ -1,5 +1,7 @@
-<h1 style="text-align:center">My Portfolio Site</h1>
+
 <div align="center">
+  <h1 style="text-align:center">My Portfolio Site</h1>
+  <hr>
 <img src="https://i.ibb.co/7XTpQyV/1.png" style=" margin-left:auto;margin-right:auto; display:block" alt="1" border="0" />
   <hr>
 <a href="https://ibb.co/MC3WZQV"><img src="https://i.ibb.co/QK1zptN/2.png" style="text-align:center" alt="2" border="0"></a>
