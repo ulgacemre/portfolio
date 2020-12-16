@@ -64,3 +64,16 @@ projects:
   url: "https://aibusinessschool.com"
   summary: Provide world-class online and offline education in AI for companies, institutions and individuals
   tags: ["web","streamlit","professional"]  
+
+
+- name: MLCodeGenerator
+  logo: /images/sections/projects/code.png
+  role: Developer
+  timeline: "Dec 2020"
+  repo: https://github.com/ulgacemre/MLCodeGenerator
+  url: "https://mlcodegenerator.herokuapp.com"
+  summary: Generate custom template code for sklearn, using a web UI built with streamlit. MLCodeGenerator provides multiple options for preprocessing, model, training, and visualization. It exports to .py, Jupyter Notebook, or Google Colab(not implemented yet). The perfect tool to start your next machine learning project!
+  tags: ["hobby","streamlit","python"]  
+
+
+
